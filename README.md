@@ -14,7 +14,7 @@ pip install -r requirements.txt
 Require additional install [sparseconvnet](https://github.com/facebookresearch/SparseConvNet) and [pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)
 
 ## Datasets preparation
-All datasets mentioned in the paper can be downloaded [here](https://pan.baidu.com/s/1F-JTP6j-CXwgE2DOqtO56A?pwd=3905).
+All datasets mentioned in the paper can be downloaded from [BaiduDisk](https://pan.baidu.com/s/1F-JTP6j-CXwgE2DOqtO56A?pwd=3905) or [OneDrive](https://1drv.ms/f/s!AhINHRhlSfiMrnCZ4fiDsAyvgIl8?e=xTXvsw).
 
 ## Train 
 ```
