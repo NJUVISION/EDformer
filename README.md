@@ -3,9 +3,10 @@ This is the source code for the ECCV 2024 - EDformer: Transformer-Based Event De
 
 ## Environment
 Python 3.10 \
-Pytorch 1.11.0 \
-CUDA 11.3 \
-cudnn 8 
+Pytorch 2.2.1 \
+CUDA 11.8 \
+cudnn 8 \
+NVIDIA RTX 3090Ti
 
 ## Installation
 ```
